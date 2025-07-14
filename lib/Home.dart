@@ -18,7 +18,7 @@ import 'UserInfo.dart';
    Widget build(BuildContext context) {
      return Scaffold(
        appBar: AppBar(
-         title: Text("Rahat"),
+         title: Text("Set State "),
          centerTitle: true,
        ),
        body:
